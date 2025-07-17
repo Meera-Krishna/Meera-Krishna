@@ -28,8 +28,11 @@
 ## 📊 GitHub Stats
 
 ![Meera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meera-Krishna&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Krishna&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Meera-Krishna&theme=radical)
+
 
 
 ---
