@@ -50,7 +50,7 @@
 
 ### [SCT_SD_02](https://github.com/Meera-Krishna/SCT_SD_02)
 > A classic "Guess the Number" game built using C++ during my internship at SkillCraft Technology.  
-**Tech:** C++
+**Tech:** HTML,CSS,JAVASCRIPT
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### [Personal-Shopper-Assistant](https://github.com/Meera-Krishna/Personal-Shopper-Assistant)
 > AI chatbot to help users find products using personalized recommendations.  
-**Tech:** HTML, JavaScript
+**Tech:** HTML, CSS, JavaScript
 
 
 ---
