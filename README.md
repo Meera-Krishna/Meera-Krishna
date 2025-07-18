@@ -41,7 +41,29 @@
 
 ## 📌 Pinned Projects
 
-> Make sure to pin your best or most recent projects via the **"Customize your pins"** option on your GitHub profile.
+
+### [SCT_SD_01](https://github.com/Meera-Krishna/SCT_SD_01)
+> Temperature Converter program to convert between Celsius, Fahrenheit, and Kelvin. Built as part of my Software Development Internship at SkillCraft Technology.  
+**Tech:** C++
+
+---
+
+### [SCT_SD_02](https://github.com/Meera-Krishna/SCT_SD_02)
+> A classic "Guess the Number" game built using C++ during my internship at SkillCraft Technology.  
+**Tech:** C++
+
+---
+
+### [CSE-316---Intelligent-CPU-Scheduler-SimulatorSc](https://github.com/Meera-Krishna/CSE-316---Intelligent-CPU-Scheduler-SimulatorSc)
+> Simulator for CPU scheduling algorithms with real-time visualizations.  
+**Tech:** Python (Jupyter Notebook)
+
+---
+
+### [Personal-Shopper-Assistant](https://github.com/Meera-Krishna/Personal-Shopper-Assistant)
+> AI chatbot to help users find products using personalized recommendations.  
+**Tech:** HTML, JavaScript
+
 
 ---
 
