@@ -24,14 +24,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Meera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meera-Krishna&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Krishna&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meera-Krishna&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meera-Krishna&theme=radical&date=20250721)
 
 
 
