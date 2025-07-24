@@ -41,7 +41,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Krishna&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Meera-Krishna&theme=radical)
+![Contribution Snake](https://github.com/Meera-Krishna/Meera-Krishna/blob/output/github-contribution-grid-snake.svg)
 
 
 
