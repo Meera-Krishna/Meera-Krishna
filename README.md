@@ -41,7 +41,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Krishna&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meera-Krishna&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Meera-Krishna&theme=midnight-purple&hide_border=false&cache_seconds=10)<br/>
 
 
 
