@@ -36,12 +36,12 @@
 
 ---
 ## 📊 GitHub Stats
-
-![Meera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meera-Krishna&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Krishna&layout=compact&theme=radical)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Meera-Krishna&theme=midnight-pink&hide_border=false&cache_seconds=10)<br/>
+<!-- GitHub stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Meera-Krishna&show_icons=true&theme=radical" />
+<!-- Streak stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Meera-Krishna&theme=radical" />
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Krishna&layout=compact&theme=radical" />
 
 
 
