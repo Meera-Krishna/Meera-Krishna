@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Meera Krishna
 
 💻 Aspiring Software Engineer with a strong interest in **Software Testing** and **Problem Solving**
-🔍 Passionate about ensuring software quality through **manual** and **automated testing**  
+🔍 Passionate about ensuring software quality through **manual** and **automated testing**
 💡 Skilled in: `Python`, `C`, `C++`, `Java`  
 🌐 Foundation knowledge in: `HTML`, `CSS`, `JavaScript`  
 📚 Exploring: `Data Structures & Algorithms`, `Test Automation`, `QA Best Practices`  
