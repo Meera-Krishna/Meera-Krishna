@@ -4,7 +4,7 @@
 🔍 Passionate about ensuring software quality through **manual** and **automated testing**
 💡 Skilled in: `Python`, `C`, `C++`, `Java`  
 🌐 Foundation knowledge in: `HTML`, `CSS`, `JavaScript`  
-📚 Exploring: `Data Structures & Algorithms`, `Test Automation`, `QA Best Practices`  
+📚 Exploring: `Data Structures & Algorithms`, `Test Automation`, `QA Best Practices 
 📫 Reach me: [meerapadmakumar229@gmail.com](mailto:meerapadmakumar229@gmail.com)  
 🔗 Let’s connect: [LinkedIn](https://www.linkedin.com/in/meera-krishna)  
 🧠 Fun fact: I enjoy finding bugs almost as much as solving them!
